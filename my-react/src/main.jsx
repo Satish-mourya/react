@@ -14,9 +14,7 @@ const reactElement={
 
 function My(){
 return(
-  <div>
-    <h1>my app</h1>
-  </div>
+  <App/>
 )
 }
 
